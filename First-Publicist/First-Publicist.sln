@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "First-Publicist", "First-Publicist\First-Publicist.csproj", "{99D70A76-3862-4743-A987-A97ADE369FAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99D70A76-3862-4743-A987-A97ADE369FAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99D70A76-3862-4743-A987-A97ADE369FAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99D70A76-3862-4743-A987-A97ADE369FAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99D70A76-3862-4743-A987-A97ADE369FAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
