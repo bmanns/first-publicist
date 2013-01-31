@@ -7,6 +7,7 @@
                 <h1><%: Title %>.</h1>
                 <h2>This is my first project using Git-Hub Repository and Git-GUI</h2><br />
                 <h2>I am also testing Tortoise Git, Git Smart and others</h2>
+                <h2>I am also testing Tortoise Git, Git Smart and others</h2>
             </hgroup>
             <p>
                 To learn more about ASP.NET, visit <a href="http://asp.net" title="ASP.NET Website">http://asp.net</a>.
